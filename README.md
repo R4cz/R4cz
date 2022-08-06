@@ -1,11 +1,11 @@
 [![MasterHead](https://raw.githubusercontent.com/R4cz/Personal-Web-Page/main/Recursos/Portada.png)](https://r4cz.github.io/Personal-Web-Page/)
-<h1 align="center">Hi 👋, I'm R4cz</h1>
+<h1 align="center">Hi 👋, I'm <b>R4cz</b></h1>
 
-<p align="center">- 🌱 I’m currently learning **Three.JS**</p>
+<p align="center">- 🌱 I’m currently learning <b>Three.JS</b></p>
 
-<p align="center">- 💬 Ask me about **JavaScript | Python | C | Node.JS**</p>
+<p align="center">- 💬 Ask me about <b>JavaScript | Python | C | Node.JS</b></p>
 
-<p align="center">- 📫 How to reach me **raczcontacto@gmail.com**</p>
+<p align="center">- 📫 How to reach me <b>raczcontacto@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
