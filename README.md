@@ -5,7 +5,7 @@
 
 <p align="center">💬 Ask me about <b>JavaScript | Python | C | Node.JS</b></p>
 
-<p align="center">📫 How to reach me <b><a href="mailto=raczcontacto@gmail.com">raczcontacto@gmail.com</a></b></p>
+<p align="center">📫 How to reach me <a href="mailto:raczcontacto@gmail.com">raczcontacto@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
