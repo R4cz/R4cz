@@ -3,7 +3,7 @@
 
 <p align="center">🌱 I’m currently learning: <b>Three.JS</b></p>
 
-<p align="center">💬 Ask me about: <b>JavaScript | Python | C | Node.JS</b></p>
+<p align="center">💬 Ask me about: <b>JavaScript | Node.JS | ECMAScript | Python | SQLite | C</b></p>
 
 <p align="center">📫 How to reach me: <b><a href="mailto:raczcontacto@gmail.com">raczcontacto@gmail.com</a></b></p>
 
