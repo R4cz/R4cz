@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/R4cz/Personal-Web-Page/main/Recursos/Portada.png)](https://r4cz.github.io/Personal-Web-Page/)
 <h1 align="center">Hi 👋, I'm <b>R4cz</b></h1>
 
 <p align="center">🌱 I’m currently learning: <b>Three.JS | MongoDB | React</b></p>
