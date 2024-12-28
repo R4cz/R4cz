@@ -1,3 +1,5 @@
+![Banner](https://github.com/R4cz/resources/blob/main/Banner%20R4cz.png)
+
 # Oscar M. G. 💻 **`R4cz`**
 
 <p>Excited to participate in the digital product development lifecycle. Eager to join a team to deliver mission-critical technology and business solutions to commercial enterprises.</p>
